@@ -1,1 +1,1 @@
-# Image-Gallery
+Image-Gallery is a project in which various images are embedded to create a horizontal view. This project is built using html, css and js. This project is scrollable and hence can be scrolled using the mouse. The logic of the actionable buttons is written within javascript. Hope that you like the project. 
